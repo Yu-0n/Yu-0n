@@ -38,13 +38,15 @@
   #### Tools
   ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visualstudiocode)
   ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-  ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci-000?style=for-the-badge&logo=davinciresolve)
   ![Office](https://img.shields.io/badge/-Office-000?style=for-the-badge&logo=windows11)
+  ![Blender](https://img.shields.io/badge/-Blender-000?style=for-the-badge&logo=blender)
   
   #### Learning
   ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
   ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=javascript)
+  
   
   #### Planning to learn
   ![Godot](https://img.shields.io/badge/-Godot-000?style=for-the-badge&logo=godotengine)
@@ -52,7 +54,7 @@
   ![Unreal](https://img.shields.io/badge/-Unreal-000?style=for-the-badge&logo=UnrealEngine)
   
   #### Stopped using
-  ![Blender](https://img.shields.io/badge/-Blender-000?style=for-the-badge&logo=blender)
+  ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci-000?style=for-the-badge&logo=davinciresolve)
 
 </div><br /><br /><br /><br />
 
