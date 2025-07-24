@@ -45,7 +45,7 @@
   ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
   ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
   
   
   #### Planning to learn
